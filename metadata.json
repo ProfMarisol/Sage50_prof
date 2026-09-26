@@ -2,6 +2,7 @@
   "name": "AulaVirtual - Portal de Ejercicios para Alumnos",
   "description": "Plataforma educativa lista para GitHub Pages con autenticación de usuarios, portal interactivo y gestor de ejercicios para profesores y alumnos.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
-
